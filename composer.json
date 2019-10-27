@@ -1,0 +1,16 @@
+{
+    "name": "boot/pk_example",
+    "description": "Laravel Package",
+    "type": "library",
+    "require": {
+        "php": "7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ho Thang",
+            "email": "thanghuuna@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
